@@ -1,3 +1,4 @@
 # linuxshortcuts
 # Set up ssh login:
- sshpass -p <password> ssh username@hostname
+1. ssh manually into host first time
+2. sshpass -p <password> ssh username@hostname
